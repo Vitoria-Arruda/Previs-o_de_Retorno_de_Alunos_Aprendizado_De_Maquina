@@ -8,9 +8,9 @@ O Problema:
 
 O trancamento de matrículas e a evasão representam perdas significativas para instituições de ensino, tanto financeiras (perda de receita recorrente) quanto acadêmicas. Tentar reengajar todos os alunos indistintamente é ineficiente e custoso.
 
-Solução:
+O que ela faz:
 
-Uma aplicação interativa desenvolvida em Python e Streamlit que utiliza dados históricos para calcular a probabilidade de retorno de um aluno. O sistema permite:
+É uma aplicação interativa desenvolvida em Python e Streamlit que utiliza dados históricos para calcular a probabilidade de retorno de um aluno. O sistema permite:
 
 Identificar padrões de comportamento em alunos que retornaram versus os que evadiram.
 
