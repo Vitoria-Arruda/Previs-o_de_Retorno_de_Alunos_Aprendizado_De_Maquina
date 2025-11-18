@@ -48,7 +48,7 @@ Visualização: Matplotlib, Seaborn
 
 📂 Estrutura de Arquivos
 
-Certifique-se de que os seguintes arquivos estejam no mesmo diretório:
+Certifique que os seguintes arquivos estejam no mesmo diretório:
 
 📁 projeto_pi1/
 │
